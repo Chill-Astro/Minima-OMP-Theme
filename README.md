@@ -10,7 +10,8 @@ Customization is Great, but not Inconvenience coming from Ricing. Thus I made a 
 </div>
 
 > [!NOTE]
-> THIS THEME IS *"NOT FOR NEOVIMMERS & RICING LEGENDS ON ARCH"* NOR *"VERY ADVANCED USERS"* 
+> THIS THEME IS *"NOT FOR NEOVIMMERS & RICING LEGENDS ON ARCH"* NOR *"VERY ADVANCED USERS"*
+> 
 >( No Offense to Arch Linux nor Neovim. This is Just a Joke on Flexers and Ricing Legends. Sorry! :) )
 ---
 
