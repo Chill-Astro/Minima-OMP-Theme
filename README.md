@@ -1,11 +1,13 @@
 <div align="center">  
     <img width=540 alt="Minima" src="https://github.com/user-attachments/assets/08bcf996-6bd9-4f65-ab13-13415fa02801" />  
     
-**Minima** is a *Simple Theme* for [Oh My Posh!](https://github.com/jandedobbeleer/oh-my-posh), based on `Tokyo Night Storm Colour` Scheme, Built for `Speed` and `Maximum Portability`.
+**Minima** is a *Simple but Universal Theme* for [Oh My Posh!](https://github.com/jandedobbeleer/oh-my-posh), Built for `Speed`, `Adaptability`, and `Maximum Portability`.
+
+**Minima** is made for all sorts of Terminal Color Schemes. In Demonstration, `Tokyo Night Storm` is Used.
 
 Customization is Great, but not Inconvenience coming from Ricing. Thus I made a Simple Rice without any Dependencies. My Goal is to make Powershell look like Bash. Her Design is Inspired from the `Default Linux Terminal` and `adb shell` on Rooted Android.
 
-**Latest Version** : `v1.1`
+**Latest Version** : `v1.2`
 
 </div>
 
@@ -19,6 +21,8 @@ Customization is Great, but not Inconvenience coming from Ricing. Thus I made a 
 
 - No Need for Nerd Font. ✅
 - Extremely Minimal and Fast. ✅
+- Familiar from the Start, Consistent on ALL SYSTEMS. ✅
+- Works on ANY Theme. ✅
 - Handles Root Mode / Administrator Terminal using `$` or `#`, a Classic Linux-Style Convention. ✅
 - NO BLOAT. This doesn't have `Git Checks`, `Time`, `Newline` or `Fancy Iconography`. ✅
 - Works Perfectly on Any Garbage Terminal, even `conhost.exe` that we know has Command Prompt. ✅
@@ -59,13 +63,13 @@ Microsoft, if you are Seeing this, Please Rmeove this from Home Systems, if not 
             "newline": false,
             "segments": [                
               {
-                "foreground": "#C8D2FF",
+                "foreground": "green",
                 "style": "plain",
                 "template": "{{ .UserName }}@{{ .HostName }} ",
                 "type": "session"
               },
               {
-                "foreground": "#7DCFFF",
+                "foreground": "green",
                 "options": {
                   "style": "full"
                 },
@@ -74,7 +78,7 @@ Microsoft, if you are Seeing this, Please Rmeove this from Home Systems, if not 
                 "type": "path"
               },
               {
-                "foreground": "#C8D2FF",
+                "foreground": "green",
                 "properties": {
                   "always_enabled": true
                 },

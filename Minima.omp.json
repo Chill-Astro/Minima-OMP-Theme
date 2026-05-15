@@ -6,13 +6,13 @@
       "newline": false,
       "segments": [                
         {
-          "foreground": "#C8D2FF",
+          "foreground": "green",
           "style": "plain",
           "template": "{{ .UserName }}@{{ .HostName }} ",
           "type": "session"
         },
         {
-          "foreground": "#7DCFFF",
+          "foreground": "green",
           "options": {
             "style": "full"
           },
@@ -21,7 +21,7 @@
           "type": "path"
         },
         {
-          "foreground": "#C8D2FF",
+          "foreground": "green",
           "properties": {
             "always_enabled": true
           },
