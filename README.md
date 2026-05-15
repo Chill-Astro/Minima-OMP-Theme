@@ -1,5 +1,7 @@
-<div align="center">  
-    <img width=540 alt="Minima" src="https://github.com/user-attachments/assets/08bcf996-6bd9-4f65-ab13-13415fa02801" />  
+<div align="center">  <img alt="Minima" src="https://github.com/user-attachments/assets/3c3691f3-1f7b-40ea-b69d-3fdab273dbb0" />
+
+<br>
+<br>
     
 **Minima** is a *Simple but Universal Theme* for [Oh My Posh!](https://github.com/jandedobbeleer/oh-my-posh), Built for `Speed`, `Adaptability`, and `Maximum Portability`.
 
@@ -139,7 +141,6 @@ User Freedom, Gaming and Budget Matter to Me. So Sorry! ¯\\\_(ツ)_/¯
 ## Credits :
 
 - [Oh My Posh! by @jandedobbeleer](https://github.com/jandedobbeleer/oh-my-posh) : For Making Oh My Posh!
-- Tokyo Night Template by @tokyo-night from [here](https://github.com/tokyo-night/template) : Correct me as I am not Sure.
 - [@Lisa on Pexels](https://www.pexels.com/photo/pink-flowers-photograph-1083822/) : For Wallpaper in Screenshots.
 - [Windows Terminal by the Contributors @microsoft](https://github.com/microsoft/terminal) : Thanks for Replacing Conhost. It's more Terrible than Windows 11's Control Panel!
 
