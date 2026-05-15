@@ -2,7 +2,7 @@
 <br>
 <br>
 
-<div align="center">  <img alt="Minima" src="https://github.com/user-attachments/assets/3c3691f3-1f7b-40ea-b69d-3fdab273dbb0" />
+<div align="center">  <img alt="Minima" width="700" src="https://github.com/user-attachments/assets/3c3691f3-1f7b-40ea-b69d-3fdab273dbb0" />
 
 <br>
 <br>
