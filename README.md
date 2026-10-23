@@ -3,7 +3,7 @@
     
 **Minima** is a *Simple but Universal Theme* for [Oh My Posh!](https://github.com/jandedobbeleer/oh-my-posh), Built for `Speed`, `Adaptability`, and `Maximum Portability`.
 
-**Minima** is made for all sorts of Terminal Color Schemes. In Demonstration, `Tokyo Night Storm` is Used.
+**Minima** is made for all sorts of Terminal Color Schemes. In the Preview, `Tokyo Night Storm` is Used.
 
 Want an Advanced Edition? See [Minima PLUS!](https://github.com/Chill-Astro/Minima-PLUS-OMP)
 
@@ -14,9 +14,9 @@ Customization is Great, but not Inconvenience coming from Ricing. Thus I made a 
 </div>
 
 > [!NOTE]
-> THIS THEME IS *"NOT FOR NEOVIMMERS & RICING LEGENDS ON ARCH"* NOR *"VERY ADVANCED USERS"*
+> THIS THEME IS *"NOT FOR RICING LEGENDS"* NOR *"VERY ADVANCED USERS"*
 > 
->( No Offense to Arch Linux nor Neovim. This is Just a Joke on Flexers and Ricing Legends. Sorry! :) )
+>( No Offence meant on Flexers and Ricing Legends. Sorry! :) )
 ---
 
 ## Key Features :
@@ -26,7 +26,7 @@ Customization is Great, but not Inconvenience coming from Ricing. Thus I made a 
 - Familiar from the Start, Consistent on ALL SYSTEMS. ✅
 - Works on ANY Theme. ✅
 - Handles Root Mode / Administrator Terminal using `$` or `#`, a Classic Linux-Style Convention. ✅
-- NO BLOAT. This doesn't have `Git Checks`, `Time`, `Newline` or `Fancy Iconography`. ✅
+- COMES WITH NOTHING. ( Yes ) This doesn't have `Git Checks`, `Time`, `Newline` or `Fancy Iconography`. ✅
 - Works Perfectly on Any Garbage Terminal, even `conhost.exe` that we know has Command Prompt. ✅
 - Brings the Linux Terminal Style to `Windows Powershell` ( if using Windows! ) ✅
 
@@ -42,7 +42,7 @@ Customization is Great, but not Inconvenience coming from Ricing. Thus I made a 
 
 ## Portability Showcase ( In conhost.exe ) :
 
-Microsoft, if you are Seeing this, Please Rmeove this from Home Systems, if not all. It's Terrible 🙏
+Microsoft, if you are Seeing this, Please remove this from Home Systems, if not all. It's Terrible 🙏
 
 <kbd>
 <img alt="image" src="https://github.com/user-attachments/assets/36889c4d-3eff-4430-b7c7-975b387fa84c" />
@@ -55,7 +55,7 @@ Microsoft, if you are Seeing this, Please Rmeove this from Home Systems, if not 
 - Paste this Code in `~/AppData/Local/Programs/oh-my-posh/themes/Minima.omp.json` if on Windows.
 - Alternatively Paste it in  `~/.local/share/oh-my-posh/themes/Minima.omp.json` if on Linux.
 - You can Paste it Anywhere like `~/<randomfilepath>/Minima.omp.json` on Windows, Linux or MacOS. ( Just Ensure that the Folder is Accessible )
-- If on MacOS, you are on your own! :)
+- If on MacOS, GOOGLE IT!  
 
       {
         "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
@@ -142,7 +142,7 @@ Change the Path if Needed!
 
 - [Oh My Posh! by @jandedobbeleer](https://github.com/jandedobbeleer/oh-my-posh) : For Making Oh My Posh!
 - [@Lisa on Pexels](https://www.pexels.com/photo/pink-flowers-photograph-1083822/) : For Wallpaper in Screenshots.
-- [Windows Terminal by the Contributors @microsoft](https://github.com/microsoft/terminal) : Thanks for Replacing Conhost. It's more Terrible than Windows 11's Control Panel!
+- [Windows Terminal by the Contributors @microsoft](https://github.com/microsoft/terminal) : Thanks for Replacing Conhost!
 
 ## ⚠️ IMPORTANT NOTICE ⚠️
 
@@ -164,7 +164,7 @@ I am trying my best to report these people.
 <summary><b>View Details</b></summary>
   
 * **Suspicious Windows Executables:** Files ending in `.exe`, `.bat`, or `.dll` (e.g., `luau.exe`, `StartApp.bat`).
-* **Compressed Archives:** This project is distributed as an **MSIX**, never as a `.zip` or `.7z` containing Windows binaries.
+* **Compressed Archives:** This project is distributed as a **JSON**, never as a `.zip` or `.7z` containing Windows binaries.
 * **Hidden Scripts:** Text files like `asm.txt` used to execute malicious code on your PC.
 * The Following Folder Structure is used by Malware (Shown in a VM) :
 
